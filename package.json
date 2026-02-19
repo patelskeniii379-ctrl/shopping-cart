@@ -22,6 +22,9 @@
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
+  "publishConfig": {
+    "registry": "http://192.168.0.42:8081/repository/Anguler_sp/"
+  },
   "devDependencies": {
     "@angular-devkit/build-angular": "^14.2.1",
     "@angular/cli": "~14.2.1",
